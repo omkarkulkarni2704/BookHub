@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.bookstore</groupId>
 	<artifactId>bookstore</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>  
 	<name>bookstore</name>
 	<description>This is Book Store Project</description>
 	<properties>
